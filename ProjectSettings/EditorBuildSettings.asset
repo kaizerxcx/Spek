@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/3D Musuem.unity
+    guid: 1b846456b43975d499f7a0184430d8ec
+  - enabled: 1
+    path: Assets/Scenes/CalamianesDeer.unity
+    guid: 8746677e352f7464ab92b22b0780c9c9
+  - enabled: 1
+    path: Assets/Scenes/MindanaoFrog.unity
+    guid: 99bf767c0f70ca54fab524d1b4e8712e
+  - enabled: 1
     path: Assets/Scenes/Croco.unity
     guid: 40b16feb7af68c74d98a31e9b1acd5f6
+  - enabled: 1
+    path: Assets/Scenes/PanayLizard.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
