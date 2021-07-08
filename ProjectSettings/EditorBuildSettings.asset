@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/NameThatSpecies.unity
+    guid: 8c8fefb12c2f3464b86c4269cd7f0999
+  - enabled: 1
     path: Assets/Scenes/3D Musuem.unity
     guid: 1b846456b43975d499f7a0184430d8ec
   - enabled: 1
