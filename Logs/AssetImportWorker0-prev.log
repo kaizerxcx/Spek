@@ -1,71 +1,71 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 7549 MB
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 20354 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+C:\Program Files\UnityEditorFolder\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/kaizer/Desktop/Spek
+C:/Users/Verds/VerdidaProjects/Spek
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53228
-Successfully changed project path to: C:/Users/kaizer/Desktop/Spek
-C:/Users/kaizer/Desktop/Spek
+55416
+Successfully changed project path to: C:/Users/Verds/VerdidaProjects/Spek
+C:/Users/Verds/VerdidaProjects/Spek
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 69.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 44.64 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/kaizer/Desktop/Spek/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/UnityEditorFolder/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Verds/VerdidaProjects/Spek/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
     Vendor:   
-    VRAM:     3962 MB
-    Driver:   27.21.14.5167
+    VRAM:     4021 MB
+    Driver:   24.21.13.9836
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Mono path[0] = 'C:/Program Files/UnityEditorFolder/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/UnityEditorFolder/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/UnityEditorFolder/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002607 seconds.
+Register platform support module: C:/Program Files/UnityEditorFolder/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002709 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 67.93 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 45.09 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.857 seconds
+- Completed reload, in  1.217 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005391 seconds.
+Registered in 0.005729 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 64.49 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 44.73 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.761 seconds
+- Completed reload, in  1.238 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.1 MB.
-System memory in use after: 93.1 MB.
+Unloading 2089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.0 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2521.
-Total: 5.098100 ms (FindLiveObjects: 0.439200 ms CreateObjectMapping: 0.140900 ms MarkObjects: 4.264800 ms  DeleteObjects: 0.249900 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 2.420800 ms (FindLiveObjects: 0.197300 ms CreateObjectMapping: 0.070800 ms MarkObjects: 2.093500 ms  DeleteObjects: 0.058200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -74,148 +74,69 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/MindanaoFrog.unity
-  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373962178340ccac6af1492e0a7d3f50') in 0.040504 seconds 
-  Import took 0.048622 seconds .
+  path: Assets/Scenes/3D Musuem.unity
+  artifactKey: Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3D Musuem.unity using Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324adf9e4e1d1ed64864ea0cdde5f7b4') in 0.018386 seconds 
+  Import took 0.023661 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 214.850784 seconds.
-  path: Assets/Resources/FrogInfo.png
-  artifactKey: Guid(bec14c02d8c982246a5d4d42a0472bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/FrogInfo.png using Guid(bec14c02d8c982246a5d4d42a0472bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4922967f004b376563b86bca7be394') in 0.155799 seconds 
-  Import took 0.164408 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 8.18 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.3 MB.
-System memory in use after: 55.3 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2527.
-Total: 5.649600 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.131500 ms MarkObjects: 4.868800 ms  DeleteObjects: 0.316200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 183.826322 seconds.
-  path: Assets/Scenes/MindanaoFrog.unity
-  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7205e642389a19f5a8ea182f70ee9d94') in 0.005257 seconds 
-  Import took 0.011368 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 9.96 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.3 MB.
-System memory in use after: 55.3 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2527.
-Total: 10.687100 ms (FindLiveObjects: 1.498100 ms CreateObjectMapping: 0.308500 ms MarkObjects: 8.367200 ms  DeleteObjects: 0.503400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 268.978826 seconds.
-  path: Assets/Resources/CrocoInfo.png
-  artifactKey: Guid(fbe8fb229be910f46ade99accf2d3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/CrocoInfo.png using Guid(fbe8fb229be910f46ade99accf2d3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dcf662060848fb8eb96555f6791366') in 0.061362 seconds 
-  Import took 0.068918 seconds .
+  Time since last request: 0.000305 seconds.
+  path: Assets/Scenes/CalamianesDeer.unity
+  artifactKey: Guid(8746677e352f7464ab92b22b0780c9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CalamianesDeer.unity using Guid(8746677e352f7464ab92b22b0780c9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a043c870782d99a038c5b2396d1fcfce') in 0.008271 seconds 
+  Import took 0.014077 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.308373 seconds.
-  path: Assets/Scenes/MindanaoFrog.unity
-  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb991b05a00854465dbd40176b8e403') in 0.004314 seconds 
-  Import took 0.010200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.858515 seconds.
-  path: Assets/Scenes/PanayLizard 1.unity
-  artifactKey: Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PanayLizard 1.unity using Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f516d4ce1ff1cfa7f764a9a96e42946') in 0.005452 seconds 
-  Import took 0.011689 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.947810 seconds.
+  Time since last request: 334.074158 seconds.
   path: Assets/Scenes/Croco.unity
   artifactKey: Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Croco.unity using Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed68076db2733df30c69f121d99f4913') in 0.014449 seconds 
-  Import took 0.021217 seconds .
+Start importing Assets/Scenes/Croco.unity using Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99dfc46a5779d73b7a1ef387c6f9e932') in 0.008700 seconds 
+  Import took 0.015446 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.232134 seconds.
-  path: Assets/Resources/Crocodile
-  artifactKey: Guid(52869ee3988cc7245a21ef327f448496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Crocodile using Guid(52869ee3988cc7245a21ef327f448496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3522b32e1bfe8a003a6c3f91b3cd90') in 0.009672 seconds 
-  Import took 0.025988 seconds .
+  Time since last request: 45.465194 seconds.
+  path: Assets/Scenes/3D Musuem.unity
+  artifactKey: Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3D Musuem.unity using Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eead2c7fc5364b5916a9d44ee4d1755c') in 0.003086 seconds 
+  Import took 0.008599 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.146528 seconds.
-  path: Assets/Resources/Crocodile/12262_Crocodile_diff.jpg
-  artifactKey: Guid(78c6302ad3ff73d49b5ca4498dbccef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Crocodile/12262_Crocodile_diff.jpg using Guid(78c6302ad3ff73d49b5ca4498dbccef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1caaf598d9ca29f70f6d4cdd38ff5eb') in 0.075183 seconds 
-  Import took 0.080239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000426 seconds.
-  path: Assets/Resources/Crocodile/crocodile.obj
-  artifactKey: Guid(9a812294b9d71c648a85b8a626532803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Crocodile/crocodile.obj using Guid(9a812294b9d71c648a85b8a626532803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a22e05457fba533614a759ea94cade') in 0.197253 seconds 
-  Import took 0.203597 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000572 seconds.
-  path: Assets/Resources/Crocodile/12262_Crocodile_spec.jpg
-  artifactKey: Guid(9726fa32f186d014aab6ff5d3ff4b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Crocodile/12262_Crocodile_spec.jpg using Guid(9726fa32f186d014aab6ff5d3ff4b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63d9267f5b04831c7190c60899a0c94') in 0.047362 seconds 
-  Import took 0.054097 seconds .
+  Time since last request: 0.003407 seconds.
+  path: Assets/Scenes/3D Musuem.unity
+  artifactKey: Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3D Musuem.unity using Guid(1b846456b43975d499f7a0184430d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eead2c7fc5364b5916a9d44ee4d1755c') in 0.003507 seconds 
+  Import took 0.008391 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 6.27 ms, found 3 plugins.
+Registering precompiled user dll's ...
+Registered in 0.010306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.9 MB.
-System memory in use after: 55.9 MB.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.580 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2570.
-Total: 4.875800 ms (FindLiveObjects: 0.310500 ms CreateObjectMapping: 0.091100 ms MarkObjects: 4.302500 ms  DeleteObjects: 0.169900 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2531.
+Total: 4.008000 ms (FindLiveObjects: 0.419800 ms CreateObjectMapping: 0.182900 ms MarkObjects: 3.374000 ms  DeleteObjects: 0.029100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -224,7 +145,47 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 51.6 MB.
+System memory in use after: 51.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2531.
+Total: 3.209200 ms (FindLiveObjects: 0.339900 ms CreateObjectMapping: 0.177200 ms MarkObjects: 2.668000 ms  DeleteObjects: 0.022500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 285.533697 seconds.
+  path: Assets/Scenes/PanayLizard.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PanayLizard.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b966cee5715bc49e2865368a1a2031') in 0.030634 seconds 
+  Import took 0.036436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.674982 seconds.
+  path: Assets/Scenes/MindanaoFrog.unity
+  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2bb352cfc16c7f97550ba1f3f2cf1c') in 0.032801 seconds 
+  Import took 0.042096 seconds .
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
