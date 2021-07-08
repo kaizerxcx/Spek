@@ -1,0 +1,14 @@
+# Blender MTL File: 'crocodile.blend'
+# Material Count: 1
+
+newmtl 14___Default
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Erwin Villarojo\\Desktop\\Crocodile_v1_L2.123c84d9c6fc-e595-4cdc-a261-64a775414a75\\12262_Crocodile_diff.jpg
+map_Ks C:\\Users\\Erwin Villarojo\\Desktop\\Crocodile_v1_L2.123c84d9c6fc-e595-4cdc-a261-64a775414a75\\12262_Crocodile_spec.jpg

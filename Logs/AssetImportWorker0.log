@@ -15,11 +15,11 @@ C:/Users/kaizer/Desktop/Spek
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60520
+53228
 Successfully changed project path to: C:/Users/kaizer/Desktop/Spek
 C:/Users/kaizer/Desktop/Spek
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 47.30 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 69.56 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001659 seconds.
+Registered in 0.002607 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 40.04 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 67.93 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.787 seconds
+- Completed reload, in  2.857 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003485 seconds.
+Registered in 0.005391 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 42.13 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 64.49 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.100 seconds
+- Completed reload, in  1.761 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.1 MB.
-System memory in use after: 93.0 MB.
+System memory in use after: 93.1 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2521.
-Total: 2.880000 ms (FindLiveObjects: 0.227400 ms CreateObjectMapping: 0.094200 ms MarkObjects: 2.424500 ms  DeleteObjects: 0.131900 ms)
+Total: 5.098100 ms (FindLiveObjects: 0.439200 ms CreateObjectMapping: 0.140900 ms MarkObjects: 4.264800 ms  DeleteObjects: 0.249900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -79,29 +79,29 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Resources/3D MOUSE DEER.png
-  artifactKey: Guid(11fe1384f31fcfc4c9025503e291a73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/3D MOUSE DEER.png using Guid(11fe1384f31fcfc4c9025503e291a73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44038bf9763d30e75ae243fd28577900') in 0.132352 seconds 
-  Import took 0.136562 seconds .
+  path: Assets/Scenes/MindanaoFrog.unity
+  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373962178340ccac6af1492e0a7d3f50') in 0.040504 seconds 
+  Import took 0.048622 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 101.805275 seconds.
-  path: Assets/Resources/DeerInfo.png
-  artifactKey: Guid(f276d692ef245fb4390bae64c455a582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/DeerInfo.png using Guid(f276d692ef245fb4390bae64c455a582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314a4143d039996acdd91d08d9c217a9') in 0.038808 seconds 
-  Import took 0.046887 seconds .
+  Time since last request: 214.850784 seconds.
+  path: Assets/Resources/FrogInfo.png
+  artifactKey: Guid(bec14c02d8c982246a5d4d42a0472bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/FrogInfo.png using Guid(bec14c02d8c982246a5d4d42a0472bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4922967f004b376563b86bca7be394') in 0.155799 seconds 
+  Import took 0.164408 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 3.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 8.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.2 MB.
-System memory in use after: 55.2 MB.
+System memory in use before: 55.3 MB.
+System memory in use after: 55.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2529.
-Total: 2.601400 ms (FindLiveObjects: 0.211700 ms CreateObjectMapping: 0.051400 ms MarkObjects: 2.181800 ms  DeleteObjects: 0.154700 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 5.649600 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.131500 ms MarkObjects: 4.868800 ms  DeleteObjects: 0.316200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -114,15 +114,23 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 183.826322 seconds.
+  path: Assets/Scenes/MindanaoFrog.unity
+  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7205e642389a19f5a8ea182f70ee9d94') in 0.005257 seconds 
+  Import took 0.011368 seconds .
+
+========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 3.66 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 9.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.2 MB.
-System memory in use after: 55.2 MB.
+System memory in use before: 55.3 MB.
+System memory in use after: 55.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2529.
-Total: 16.017800 ms (FindLiveObjects: 0.435200 ms CreateObjectMapping: 0.069400 ms MarkObjects: 15.383900 ms  DeleteObjects: 0.128100 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 10.687100 ms (FindLiveObjects: 1.498100 ms CreateObjectMapping: 0.308500 ms MarkObjects: 8.367200 ms  DeleteObjects: 0.503400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,36 +143,79 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 3.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.2 MB.
-System memory in use after: 55.2 MB.
+Received Import Request.
+  Time since last request: 268.978826 seconds.
+  path: Assets/Resources/CrocoInfo.png
+  artifactKey: Guid(fbe8fb229be910f46ade99accf2d3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/CrocoInfo.png using Guid(fbe8fb229be910f46ade99accf2d3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dcf662060848fb8eb96555f6791366') in 0.061362 seconds 
+  Import took 0.068918 seconds .
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2529.
-Total: 3.348300 ms (FindLiveObjects: 0.329900 ms CreateObjectMapping: 0.060600 ms MarkObjects: 2.610300 ms  DeleteObjects: 0.345800 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 14.308373 seconds.
+  path: Assets/Scenes/MindanaoFrog.unity
+  artifactKey: Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MindanaoFrog.unity using Guid(99bf767c0f70ca54fab524d1b4e8712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb991b05a00854465dbd40176b8e403') in 0.004314 seconds 
+  Import took 0.010200 seconds .
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9.858515 seconds.
+  path: Assets/Scenes/PanayLizard 1.unity
+  artifactKey: Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PanayLizard 1.unity using Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f516d4ce1ff1cfa7f764a9a96e42946') in 0.005452 seconds 
+  Import took 0.011689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.947810 seconds.
+  path: Assets/Scenes/Croco.unity
+  artifactKey: Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Croco.unity using Guid(40b16feb7af68c74d98a31e9b1acd5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed68076db2733df30c69f121d99f4913') in 0.014449 seconds 
+  Import took 0.021217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.232134 seconds.
+  path: Assets/Resources/Crocodile
+  artifactKey: Guid(52869ee3988cc7245a21ef327f448496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Crocodile using Guid(52869ee3988cc7245a21ef327f448496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3522b32e1bfe8a003a6c3f91b3cd90') in 0.009672 seconds 
+  Import took 0.025988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146528 seconds.
+  path: Assets/Resources/Crocodile/12262_Crocodile_diff.jpg
+  artifactKey: Guid(78c6302ad3ff73d49b5ca4498dbccef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Crocodile/12262_Crocodile_diff.jpg using Guid(78c6302ad3ff73d49b5ca4498dbccef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1caaf598d9ca29f70f6d4cdd38ff5eb') in 0.075183 seconds 
+  Import took 0.080239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Resources/Crocodile/crocodile.obj
+  artifactKey: Guid(9a812294b9d71c648a85b8a626532803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Crocodile/crocodile.obj using Guid(9a812294b9d71c648a85b8a626532803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a22e05457fba533614a759ea94cade') in 0.197253 seconds 
+  Import took 0.203597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Resources/Crocodile/12262_Crocodile_spec.jpg
+  artifactKey: Guid(9726fa32f186d014aab6ff5d3ff4b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Crocodile/12262_Crocodile_spec.jpg using Guid(9726fa32f186d014aab6ff5d3ff4b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63d9267f5b04831c7190c60899a0c94') in 0.047362 seconds 
+  Import took 0.054097 seconds .
+
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 3.86 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 6.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.2 MB.
-System memory in use after: 55.2 MB.
+System memory in use before: 55.9 MB.
+System memory in use after: 55.9 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2529.
-Total: 2.958900 ms (FindLiveObjects: 0.213400 ms CreateObjectMapping: 0.052000 ms MarkObjects: 2.579100 ms  DeleteObjects: 0.113400 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 4.875800 ms (FindLiveObjects: 0.310500 ms CreateObjectMapping: 0.091100 ms MarkObjects: 4.302500 ms  DeleteObjects: 0.169900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
