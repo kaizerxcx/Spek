@@ -10,7 +10,7 @@ Unity and Flutter integration, With Google Pay Service
 
 Screenshots from the app:
 
-<img src="images/snapshots/1jpg" width = "200"></img>
+<img src="images/snapshots/1.jpg" width = "200"></img>
 <img src="images/s2.jpg" width = "200"></img>
 <img src="images/s1.jpg" width = "200"></img>
 <img src="images/s3.jpg" width = "200"></img>
